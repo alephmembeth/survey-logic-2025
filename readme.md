@@ -1,4 +1,4 @@
-# Einführung in die Logik – Ex-Post-Evaluation
+# Einführung in die Logik – Befragung zur Klausurvorbereitung
 
 This is a repository for a survey on students’ exam preparation for Mark Siebel’s lecture “Einführung in die Logik,” held in the winter term 2024/2025 at the University of Oldenburg.
 
